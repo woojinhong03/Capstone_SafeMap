@@ -25,7 +25,7 @@
 - **안전 최적화 경로**: 위험도를 고려한 안전 우선 경로
 
 ### 3. AR 기반 경로 시각화
-- Unity AR Foundation 및 ARKit/ARCore 기반 AR 구현
+- Unity AR Foundation 및 ARCore 기반 AR 구현
 - 실제 거리와 방향에 맞는 AR 코인 배치
 - 사용자가 코인에 접근 시 자동 수거 및 피드백 제공
 - 게임 요소를 통한 직관적이고 재미있는 길 안내
@@ -53,6 +53,7 @@
 - **Unity**: AR 앱 개발 플랫폼
 - **AR Foundation**: Unity AR 프레임워크
 - **ARKit (iOS) / ARCore (Android)**: 플랫폼별 AR 구현
+- **ARCore API**: AR 생성
 
 ### API 연동
 - **Kakao Map API**: 주소-좌표 변환
@@ -194,3 +195,4 @@ python integrated_risk_analyzer.py
 ---
 
 **개발자**: 인공지능학과 A1조 캡스톤 디자인 팀
+
