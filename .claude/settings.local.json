@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Read(//c/Users/hongw/OneDrive/문서/카카오톡 받은 파일/**)",
+      "WebSearch",
+      "Bash(dir)",
+      "Bash(pip install:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Read(//c/Users/hongw/Downloads/**)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
